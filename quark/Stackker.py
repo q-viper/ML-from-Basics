@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import time
 import os
 import json
-from optimizers import Optimizer
+from .optimizers import Optimizer
 
 class Sequential():
     def __init__(self):

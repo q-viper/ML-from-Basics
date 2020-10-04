@@ -1,5 +1,5 @@
 import numpy as np
-from functions import activate, deactivate
+from .functions import activate, deactivate
 
 class FFL():
     """
