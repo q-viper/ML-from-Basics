@@ -20,7 +20,7 @@ After downloading installation file, install them on desired places and then ope
 
 After installation completed open R then we get window just like below
 
-![img](https://iamdurga.github.io/assets/Math_blog/windows 3.PNG)
+![img](https://github.com/iamdurga/iamdurga.github.io/raw/main/assets/Math_blog/windows%203.PNG)
 
 Now we can write our R codes within console or we can do it via Rstudio. 
 
